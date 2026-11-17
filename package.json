@@ -1,0 +1,13 @@
+{
+  "name": "stack-blocks-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "叠积木网页版：一个不依赖第三方包的静态文件服务器 + 打包好的游戏",
+  "scripts": {
+    "start": "node server.js",
+    "build": "node build.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
